@@ -1,0 +1,2 @@
+# usdcc-near
+usdcc-near
